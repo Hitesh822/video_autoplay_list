@@ -1,0 +1,29 @@
+name: video_autoplay_list
+description: Package to provide a list for auto-playing videos, like you find in facebook feeds.
+version: 0.1.0
+homepage: https://github.com/Hitesh822/video_autoplay_list.git
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  video_player: ^0.10.11+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+   
+flutter:
+
+  assets:
+    - assets/
+  #   - images/a_dot_ham.jpeg
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
