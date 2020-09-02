@@ -1,6 +1,6 @@
 name: video_autoplay_list
 description: Package to provide a list for auto-playing videos, like you find in facebook feeds.
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/Hitesh822/video_autoplay_list.git
 
 environment:
