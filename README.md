@@ -38,5 +38,5 @@ Please check the example tab above.
 
 ## Dependencies
 
-This package uses `video_plater` pacakage. 
+This package uses `video_player` package. 
 Check out [video_player](https://pub.dev/packages/video_player) for package specific installations and supported video formats.
